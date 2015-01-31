@@ -1,7 +1,9 @@
 {
   "jspm": {
     "dependencies": {
-      "moment": "npm:moment@^2.9.0"
+      "moment": "npm:moment@^2.9.0",
+      "riot": "npm:riot@^2.0.7",
+      "riotjs": "github:muut/riotjs@^2.0.7"
     }
   },
   "name": "riotjs-countdown",
